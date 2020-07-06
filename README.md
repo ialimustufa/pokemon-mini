@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1yiOLChmuziUahVXWG1OmePcu2ehjOP3d/view?usp=shari
 
 2. Download the Training Enviornment: This Repo
 
-3. Download mini datset (http://iali.in/datasets/pokemon-mini.zip) and Extract the Mini Dataset to the folder /pokemon_min/tf_files/smalldb
+3. Download mini datset (https://storage.googleapis.com/datasetsbyali/pokemon-mini.zip) and Extract the Mini Dataset to the folder /pokemon_min/tf_files/smalldb
 
 3. Follow the Steps in steps.md
 
